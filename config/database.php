@@ -20,11 +20,11 @@ return [
     // 服务器地址
     'hostname'    => '127.0.0.1',
     // 数据库名
-    'database'    => 'admin_v4',
+    'database'    => 'joynowtea',
     // 用户名
-    'username'    => 'admin_v4',
+    'username'    => 'root',
     // 密码
-    'password'    => 'FbYBHcWKr2',
+    'password'    => 'root',
     // 编码
     'charset'     => 'utf8mb4',
     // 端口
